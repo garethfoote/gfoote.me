@@ -19,7 +19,9 @@ This is a case study explaining the context in which the Tree View component was
 - [[./Mini-briefs - Exploring datasets|Mini-briefs - Exploring datasets]]
 - [[../_topics/Accessibility|Accessibility]]
 
+
 ![[../../attachments/Choose a file 1.png|alt text]]
+
 
 ## Background and context
 In digital archiving there are various scenarios that require the presentation of a hierarchical file structure to the user. For digital records the preservation of the original folder and file structure is one way they are given meaning and made accessible for future use. Therefore, when a consignment of records is transferred to an archive or when they are presented back to interested parties, showing the original folder structure in a web interface is necessary.
